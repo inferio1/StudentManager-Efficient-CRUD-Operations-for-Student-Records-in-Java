@@ -1,0 +1,5 @@
+CREATE TABLE `student_details2`.`student` (
+  `usn` VARCHAR(45) NOT NULL,
+  `name` VARCHAR(45) NULL,
+  `branch` VARCHAR(45) NULL,
+  PRIMARY KEY (`usn`));

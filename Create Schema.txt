@@ -1,0 +1,1 @@
+CREATE SCHEMA `student_details2` ;
